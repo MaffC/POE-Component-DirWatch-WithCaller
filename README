@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MaffC/POE-Component-DirWatch-WithCaller.svg?branch=master)](https://travis-ci.org/MaffC/POE-Component-DirWatch-WithCaller)
+
 POE-Component-DirWatch-WithCaller
 
 This module extends POE::Component::DirWatch to make life easier for those who wish to dynamically create DirWatch sessions which share common callbacks and filters. Functionality has also been included to allow previously-seen files to be filtered, hopefully improving poll performance.
