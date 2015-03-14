@@ -1,11 +1,13 @@
 [![Build Status](https://travis-ci.org/MaffC/POE-Component-DirWatch-WithCaller.svg?branch=master)](https://travis-ci.org/MaffC/POE-Component-DirWatch-WithCaller)
 
 POE-Component-DirWatch-WithCaller
+=================================
 
 This module extends POE::Component::DirWatch to make life easier for those who wish to dynamically create DirWatch sessions which share common callbacks and filters. Functionality has also been included to allow previously-seen files to be filtered, hopefully improving poll performance.
 
 
 INSTALLATION
+------------
 
 To install this module, run the following commands:
 
@@ -15,25 +17,26 @@ To install this module, run the following commands:
 	make install
 
 SUPPORT AND DOCUMENTATION
+-------------------------
 
 After installing, you can find documentation for this module with the
 perldoc command.
 
-    perldoc POE::Component::DirWatch::WithCaller
+perldoc POE::Component::DirWatch::WithCaller
 
 You can also look for information at:
 
-    RT, CPAN's request tracker (report bugs here)
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=POE-Component-DirWatch-WithCaller
+RT, CPAN's request tracker (report bugs here)
+http://rt.cpan.org/NoAuth/Bugs.html?Dist=POE-Component-DirWatch-WithCaller
 
-    AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/POE-Component-DirWatch-WithCaller
+AnnoCPAN, Annotated CPAN documentation
+http://annocpan.org/dist/POE-Component-DirWatch-WithCaller
 
-    CPAN Ratings
-        http://cpanratings.perl.org/d/POE-Component-DirWatch-WithCaller
+CPAN Ratings
+http://cpanratings.perl.org/d/POE-Component-DirWatch-WithCaller
 
-    Search CPAN
-        http://search.cpan.org/dist/POE-Component-DirWatch-WithCaller/
+Search CPAN
+http://search.cpan.org/dist/POE-Component-DirWatch-WithCaller/
 
 
 LICENSE AND COPYRIGHT
@@ -44,7 +47,7 @@ This program is free software; you can redistribute it and/or modify it
 under the terms of the the Artistic License (2.0). You may obtain a
 copy of the full license at:
 
-L<http://www.perlfoundation.org/artistic_license_2_0>
+http://www.perlfoundation.org/artistic_license_2_0
 
 Any use, modification, and distribution of the Standard or Modified
 Versions is governed by this Artistic License. By using, modifying or
