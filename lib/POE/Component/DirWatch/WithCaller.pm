@@ -1,6 +1,6 @@
 package POE::Component::DirWatch::WithCaller;
 
-our $VERSION = "1.00";
+our $VERSION = "1.0";
 
 use 5.006;
 use strict;
