@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/MaffC/POE-Component-DirWatch-WithCaller.svg?branch=master)](https://travis-ci.org/MaffC/POE-Component-DirWatch-WithCaller)
+[![Build Status](https://travis-ci.org/Maffsie/POE-Component-DirWatch-WithCaller.svg?branch=master)](https://travis-ci.org/Maffsie/POE-Component-DirWatch-WithCaller)
 
 POE-Component-DirWatch-WithCaller
 =================================
